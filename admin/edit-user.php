@@ -114,12 +114,12 @@ if(isset($_POST['submit']))
 	<div class="ts-main-content">
 	<?php include('includes/leftbar.php');?>
 		
-			<div class="container">
+			<div class="container text-center">
 				<div class="row">
 					<div class="col-md-10 mx-auto">
 						<h3 class="page-title">Edit User : <?php echo htmlentities($result->name); ?></h3>
 						<div class="row">
-							<div class="col-md-10 mx-auto">
+							<div class="col-md-10 mx-auto mt-5">
 								<div class="panel panel-default">
 									<div class="panel-heading">Edit Info</div>
 <?php if($error){?><div class="errorWrap"><strong>ERROR</strong>:<?php echo htmlentities($error); ?> </div><?php } 
@@ -177,7 +177,7 @@ if(isset($_POST['submit']))
 
 <div class="form-group">
 	<div class="col-sm-12">
-		<button class="btn btn-primary btn-block" name="submit" type="submit">Save Changes</button>
+		<button class="btn btn-dark btn-block" name="submit" type="submit">Save Changes</button>
 	</div>
 </div>
 
