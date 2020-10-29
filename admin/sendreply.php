@@ -102,12 +102,12 @@ else{
 	<div class="ts-main-content">
 	<?php include('includes/leftbar.php');?>
 	
-			<div class="container">
+			<div class="container text-center">
 				<div class="row">
 					<div class="col-md-10 mx-auto">
 						<div class="row">
-							<div class="col-md-10 mx-auto">
-							<div class="card card-body mt-3">
+							<div class="col-md-8 mx-auto">
+							<div class="card card-body mt-5">
                             <h2>Reply Feedback</h2>
 								<div class="panel panel-default">
 									<div class="panel-heading">Edit Info</div>
