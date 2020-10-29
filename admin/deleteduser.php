@@ -68,7 +68,7 @@ else{
 	<div class="ts-main-content">
 		<?php include('includes/leftbar.php');?>
 		
-			<div class="container">
+			<div class="container text-center">
 
 				<div class="row">
 					<div class="col-md-10 mx-auto">

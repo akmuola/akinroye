@@ -71,7 +71,6 @@ else{
 
 				<div class="row">
 					<div class="col-md-8 mx-auto">
-<div class="card card-body mt-3">
 						<h2 class="page-title">Messages</h2>
 
 						<!-- Zero Configuration Table -->

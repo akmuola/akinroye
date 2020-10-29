@@ -86,10 +86,10 @@ if(isset($_POST['submit']))
 	<div class="ts-main-content">
 	<?php include('includes/leftbar.php');?>
 	
-			<div class="container">
+			<div class="container text-center">
 				<div class="row">
 					<div class="col-md-10 mx-auto">
-					<div class="card card-body mt-3">
+					<div class="card card-body mt-5">
 						<h3 class="page-title">Manage Admin</h3>
 						<div class="row">
 							<div class="col-md-10 mx-auto">

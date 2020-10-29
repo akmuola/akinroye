@@ -110,7 +110,7 @@ if(isset($_POST['submit']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 mx-auto">
-					<div class="card card-body mt-3">
+					<div class="card card-body mt-5">
 						<div class="row">
 							<div class="col-md-12">
 								<div class="panel panel-default">
